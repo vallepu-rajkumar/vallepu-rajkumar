@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2>Rajkumar Vallepu</h2>
+<p><code>BACKEND ENGINEER</code> &nbsp;·&nbsp; <code>JAVA / SPRING BOOT</code> &nbsp;·&nbsp; <code>BENGALURU, IN</code></p>
 
-<!--
-**vallepu-rajkumar/vallepu-rajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build backend systems: REST APIs, microservices and, more recently, AI agents that take over repetitive day-to-day work. Five-plus years of shipping Java in production across fintech, real-estate and consumer-credit platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 01 &nbsp;/&nbsp; Spec sheet
+
+| Layer        | Tools I use                                              |
+|--------------|----------------------------------------------------------|
+| Language     | Java 17, SQL, Python (learning)                          |
+| Frameworks   | Spring Boot, Spring Data JPA, Spring Security, Hibernate |
+| Architecture | Microservices, REST, event-driven messaging              |
+| Data         | MySQL, PostgreSQL, Redis                                 |
+| Delivery     | Git, Maven, Docker, Jenkins, Linux                       |
+| AI           | LLM APIs, tool-calling agents, workflow automation       |
+
+### 02 &nbsp;/&nbsp; What I work on
+
+```text
+[ manual process ] ──► [ API / agent ] ──► [ automated, logged, repeatable ]
+```
+
+- **Backend services** — clean, tested Spring Boot APIs built to be maintained, not just shipped
+- **Integrations** — connecting payment, CRM and third-party systems reliably
+- **AI agents** — small, focused agents that read, decide and act on routine tasks
+
+### 03 &nbsp;/&nbsp; Now building
+
+- An agent-based automation toolkit in Java — repo coming soon
+
+---
+
+<sub>Pinned repositories below are my own work.</sub>
